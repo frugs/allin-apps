@@ -11,8 +11,7 @@ app = werkzeug.wsgi.DispatcherMiddleware(
 
 
 def main():
-    werkzeug.serving.run_simple(
-        "127.0.0.1", 37696, app, use_reloader=True, use_debugger=True)
+    werkzeug.serving.run_simple("127.0.0.1", 37696, app, use_reloader=True, use_debugger=True)
 
 
 if __name__ == "__main__":
