@@ -1,4 +1,5 @@
 from zergmacroplot import app as zerg_macro_app
+from terranproduction import app as terran_production_app
 import werkzeug.wsgi
 import werkzeug.serving
 import werkzeug.wrappers
@@ -6,7 +7,8 @@ import werkzeug.wrappers
 app = werkzeug.wsgi.DispatcherMiddleware(
     werkzeug.wrappers.Response("Nothing to see here!", status=404),
     mounts={
-        "/zergmacro": zerg_macro_app
+        "/zergmacro": zerg_macro_app,
+        "/terranproduction": terran_production_app,
     })
 
 

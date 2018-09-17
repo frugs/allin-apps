@@ -114,3 +114,4 @@ dist
 */__pycache__/
 MANIFEST
 build/
+firebaseConfig.json
