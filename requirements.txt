@@ -2,3 +2,4 @@ werkzeug
 terranproduction>=0.0.3
 zergmacroplot>=0.0.16
 leaderboarddata>=0.0.6
+leaderboardweb>=0.0.3
