@@ -1,4 +1,4 @@
 werkzeug
-terranproduction
+terranproduction>=0.0.3
 zergmacroplot>=0.0.16
-leaderboarddata>=0.0.4
+leaderboarddata>=0.0.6

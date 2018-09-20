@@ -1,4 +1,4 @@
 cron:
 - description: "update leaderboard"
   url: /leaderboard_data/update
-  schedule: every 1 mins
+  schedule: every 2 mins
