@@ -5,4 +5,5 @@ leaderboarddata>=0.0.7
 leaderboardweb>=0.0.4
 allinsso>=0.0.6
 allinusersettings>=0.0.3
-ladderinfo>=0.0.2
+ladderinfo>=0.0.3
+bnetprofile
