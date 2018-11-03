@@ -1,4 +1,0 @@
-cron:
-- description: "update leaderboard"
-  url: /leaderboard_data/update
-  schedule: every 2 mins
