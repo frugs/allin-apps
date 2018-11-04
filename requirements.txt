@@ -6,5 +6,5 @@ leaderboardweb>=0.0.4
 allinsso>=0.0.6
 allinusersettings>=0.0.3
 ladderinfo>=0.0.3
-allintrophy>=0.0.2
+allintrophy>=0.0.4
 bnetprofile
