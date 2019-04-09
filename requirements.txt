@@ -4,7 +4,7 @@ zergmacroplot>=0.0.16
 leaderboarddata>=0.0.9
 leaderboardweb>=0.0.4
 allinsso>=0.0.6
-allinusersettings>=0.0.3
+allinusersettings>=0.0.4
 ladderinfo>=0.0.3
 allintrophy>=0.0.5
 bnetprofile
