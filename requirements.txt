@@ -1,7 +1,7 @@
 werkzeug
 terranproduction>=0.0.3
 zergmacroplot>=0.0.16
-leaderboarddata>=0.0.9
+leaderboarddata>=0.0.12
 leaderboardweb>=0.0.4
 allinsso>=0.0.6
 allinusersettings>=0.0.4
