@@ -16,8 +16,6 @@ app = werkzeug.wsgi.DispatcherMiddleware(
     mounts={
         "/zergmacro": zerg_macro_app,
         "/terranproduction": terran_production_app,
-        "/leaderboard_data": leaderboard_data_app,
-        "/leaderboard": leaderboard_web_app,
         "/sso": sso_app,
         "/usersettings": usersettings_app,
         "/ladderinfo": ladderinfo_app,
