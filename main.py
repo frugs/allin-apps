@@ -1,7 +1,5 @@
 from zergmacroplot import app as zerg_macro_app
 from terranproduction import app as terran_production_app
-from leaderboarddata import app as leaderboard_data_app
-from leaderboardweb import app as leaderboard_web_app
 from allinsso import app as sso_app
 from allinusersettings import app as usersettings_app
 from ladderinfo import app as ladderinfo_app
