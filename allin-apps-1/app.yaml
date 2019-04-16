@@ -1,0 +1,8 @@
+runtime: python37
+
+service: allin-apps-1
+
+handlers:
+- url: /.*
+  secure: always
+  script: auto

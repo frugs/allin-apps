@@ -1,0 +1,3 @@
+werkzeug
+leaderboarddata>=0.0.17
+leaderboardweb>=0.0.8

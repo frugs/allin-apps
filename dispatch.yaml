@@ -1,0 +1,19 @@
+dispatch:
+  - url: "*/zergmacro/*"
+    service: allin-apps-1
+  - url: "*/terranproduction/*"
+    service: allin-apps-1
+  - url: "*/sso/*"
+    service: allin-apps-1
+  - url: "*/usersettings/*"
+    service: allin-apps-1
+  - url: "*/ladderinfo/*"
+    service: allin-apps-1
+  - url: "*/bnetprofile/*"
+    service: allin-apps-1
+  - url: "*/trophy/*"
+    service: allin-apps-1
+  - url: "*/leaderboard/*"
+    service: allin-apps-2
+  - url: "*/leaderboard_data/*"
+    service: allin-apps-2
