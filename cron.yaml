@@ -1,4 +1,1 @@
 cron:
-- description: "leaderboard update"
-  url: /leaderboard_data/update
-  schedule: every 35 minutes
