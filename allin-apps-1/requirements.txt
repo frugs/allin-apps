@@ -1,5 +1,5 @@
 werkzeug
-terranproduction>=0.0.4
+terranproduction>=0.0.5
 zergmacroplot>=0.0.16
 allinsso>=0.0.6
 allinusersettings>=0.0.6
