@@ -1,8 +1,8 @@
 werkzeug
-terranproduction>=0.0.3
+terranproduction>=0.0.4
 zergmacroplot>=0.0.16
 allinsso>=0.0.6
-allinusersettings>=0.0.4
+allinusersettings>=0.0.6
 ladderinfo>=0.0.3
 allintrophy>=0.0.5
 bnetprofile
