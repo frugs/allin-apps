@@ -1,4 +1,6 @@
 dispatch:
+  - url: "*/favicon.ico"
+    service: allin-apps-1
   - url: "*/zergmacro/*"
     service: allin-apps-1
   - url: "*/terranproduction/*"
@@ -12,6 +14,8 @@ dispatch:
   - url: "*/bnetprofile/*"
     service: allin-apps-1
   - url: "*/trophy/*"
+    service: allin-apps-1
+  - url: "*/practice/*"
     service: allin-apps-1
   - url: "*/leaderboard/*"
     service: allin-apps-2

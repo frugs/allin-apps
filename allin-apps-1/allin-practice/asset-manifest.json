@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "//all-inspiration-apps.appspot.com/practice/static/css/main.e6c9d9b6.chunk.css",
+    "main.js": "//all-inspiration-apps.appspot.com/practice/static/js/main.01f24c9e.chunk.js",
+    "main.js.map": "//all-inspiration-apps.appspot.com/practice/static/js/main.01f24c9e.chunk.js.map",
+    "runtime-main.js": "//all-inspiration-apps.appspot.com/practice/static/js/runtime-main.20e58c7a.js",
+    "runtime-main.js.map": "//all-inspiration-apps.appspot.com/practice/static/js/runtime-main.20e58c7a.js.map",
+    "static/css/2.caec78ab.chunk.css": "//all-inspiration-apps.appspot.com/practice/static/css/2.caec78ab.chunk.css",
+    "static/js/2.954147f0.chunk.js": "//all-inspiration-apps.appspot.com/practice/static/js/2.954147f0.chunk.js",
+    "static/js/2.954147f0.chunk.js.map": "//all-inspiration-apps.appspot.com/practice/static/js/2.954147f0.chunk.js.map",
+    "index.html": "//all-inspiration-apps.appspot.com/practice/index.html",
+    "precache-manifest.c43725f9cf5f4b97bd21bc0f1cd69fc7.js": "//all-inspiration-apps.appspot.com/practice/precache-manifest.c43725f9cf5f4b97bd21bc0f1cd69fc7.js",
+    "service-worker.js": "//all-inspiration-apps.appspot.com/practice/service-worker.js",
+    "static/css/2.caec78ab.chunk.css.map": "//all-inspiration-apps.appspot.com/practice/static/css/2.caec78ab.chunk.css.map",
+    "static/css/main.e6c9d9b6.chunk.css.map": "//all-inspiration-apps.appspot.com/practice/static/css/main.e6c9d9b6.chunk.css.map",
+    "static/media/allin_cover.png": "//all-inspiration-apps.appspot.com/practice/static/media/allin_cover.88f72fce.png",
+    "static/media/allin_logo.png": "//all-inspiration-apps.appspot.com/practice/static/media/allin_logo.22ac2fdd.png",
+    "static/media/bronze_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/bronze_icon.8731c59d.png",
+    "static/media/diamond_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/diamond_icon.7b57604c.png",
+    "static/media/AppHeader.css": "//all-inspiration-apps.appspot.com/practice/static/media/ethnocentric_rg.843e6c09.ttf",
+    "static/media/gold_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/gold_icon.c5e72b84.png",
+    "static/media/grandmaster_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/grandmaster_icon.6e5ed5fb.png",
+    "static/media/App.scss": "//all-inspiration-apps.appspot.com/practice/static/media/icons-20.90247cfd.ttf",
+    "static/media/master_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/master_icon.a346bae0.png",
+    "static/media/platinum_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/platinum_icon.edfb887b.png",
+    "static/media/protoss_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/protoss_icon.7a6832e7.png",
+    "static/media/random_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/random_icon.0f76d118.png",
+    "static/media/silver_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/silver_icon.8aada941.png",
+    "static/media/terran_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/terran_icon.0a91dd89.png",
+    "static/media/zerg_icon.png": "//all-inspiration-apps.appspot.com/practice/static/media/zerg_icon.ecf1d83c.png"
+  }
+}
