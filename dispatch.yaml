@@ -17,6 +17,8 @@ dispatch:
     service: allin-apps-1
   - url: "*/practice/*"
     service: allin-apps-1
+  - url: "*/practice_backend/*"
+    service: allin-apps-1
   - url: "*/leaderboard/*"
     service: allin-apps-2
   - url: "*/leaderboard_data/*"

@@ -5,6 +5,7 @@ from allinusersettings import app as usersettings_app
 from ladderinfo import app as ladderinfo_app
 from bnetprofile import app as bnetprofile_app
 from allintrophy import app as trophy_app
+from allinpractice import app as practice_app
 import werkzeug.wsgi
 import werkzeug.serving
 import werkzeug.wrappers
@@ -19,6 +20,7 @@ app = werkzeug.wsgi.DispatcherMiddleware(
         "/ladderinfo": ladderinfo_app,
         "/bnetprofile": bnetprofile_app,
         "/trophy": trophy_app,
+        "/practice_backend": practice_app,
     })
 
 
