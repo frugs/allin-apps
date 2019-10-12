@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3affc8fe5792bd752a44357fd308a37f",
+    "revision": "8bcd3bf73901e7406b57cc9a7e2acf7c",
     "url": "//all-inspiration-apps.appspot.com/practice/index.html"
   },
   {
-    "revision": "b334020f022fd0107056",
+    "revision": "22d2b2ff68f65ac325d2",
     "url": "//all-inspiration-apps.appspot.com/practice/static/css/2.caec78ab.chunk.css"
   },
   {
-    "revision": "ffc9ede092fcb0a00f58",
-    "url": "//all-inspiration-apps.appspot.com/practice/static/css/main.1d45965a.chunk.css"
+    "revision": "69afee4a90712fbbb936",
+    "url": "//all-inspiration-apps.appspot.com/practice/static/css/main.7180ac9a.chunk.css"
   },
   {
-    "revision": "b334020f022fd0107056",
-    "url": "//all-inspiration-apps.appspot.com/practice/static/js/2.9216dcf1.chunk.js"
+    "revision": "22d2b2ff68f65ac325d2",
+    "url": "//all-inspiration-apps.appspot.com/practice/static/js/2.4945d05f.chunk.js"
   },
   {
-    "revision": "ffc9ede092fcb0a00f58",
-    "url": "//all-inspiration-apps.appspot.com/practice/static/js/main.0062c439.chunk.js"
+    "revision": "69afee4a90712fbbb936",
+    "url": "//all-inspiration-apps.appspot.com/practice/static/js/main.5741bcbd.chunk.js"
   },
   {
     "revision": "a5975d4b21085b43f357",

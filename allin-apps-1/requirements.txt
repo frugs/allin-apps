@@ -6,4 +6,4 @@ allinusersettings>=0.0.6
 ladderinfo>=0.0.3
 allintrophy>=0.0.5
 bnetprofile
-allinpractice>=0.0.3
+allinpractice>=0.0.4
