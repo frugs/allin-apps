@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51d87c46c6e84c250900d409352ff8a2",
+    "revision": "06c220d7b25ebede4bb6c6ffe43c13a1",
     "url": "//all-inspiration-apps.appspot.com/practice/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//all-inspiration-apps.appspot.com/practice/static/css/2.caec78ab.chunk.css"
   },
   {
-    "revision": "b740c779e4d7521d1930",
+    "revision": "dd28e4ac4626819bf4ac",
     "url": "//all-inspiration-apps.appspot.com/practice/static/css/main.7180ac9a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//all-inspiration-apps.appspot.com/practice/static/js/2.dc55b271.chunk.js"
   },
   {
-    "revision": "b740c779e4d7521d1930",
-    "url": "//all-inspiration-apps.appspot.com/practice/static/js/main.ed5805c9.chunk.js"
+    "revision": "dd28e4ac4626819bf4ac",
+    "url": "//all-inspiration-apps.appspot.com/practice/static/js/main.2c0823f7.chunk.js"
   },
   {
     "revision": "a5975d4b21085b43f357",
